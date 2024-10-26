@@ -20,7 +20,7 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 * You will see a change on the left
 
 ### Pushing
-* Press Publish branch
+-[x] Press Publish branch
 * Give it a commit message and press commit
 * Then press push to origin in top right
 
